@@ -9,6 +9,5 @@ namespace Snake
     internal class Score
     {
         public int score = 0;
-
     }
 }

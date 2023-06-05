@@ -3,30 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Snake
 {
     public class Speed
     {
         int speedValue;
-        int minSpeed = 45;
-        int faster = 15;
-        int text;
+        int maxSnakeSpeed = 45;
+        int boost = 15;
 
         public int SpeedValue { get { return speedValue; } }
-        public int TXT { get { return text; } }
-
         public Speed()
         {
-            speedValue = 135;
-            text = 1;
+            speedValue = 100;
+
         }
-        public void plusSpeed()
+        public void speedy()
         {
-            if (speedValue > minSpeed)
+            if (speedValue > maxSnakeSpeed)
             {
-                speedValue -= faster;
-                text++;
+                speedValue -= boost;
             }
         }
     }

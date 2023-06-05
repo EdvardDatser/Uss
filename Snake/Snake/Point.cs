@@ -65,7 +65,9 @@ namespace Snake
 		{
 			sym = ' ';
 			Draw();
-		}
+            x = -1;
+            y = -1;
+        }
 
 		public override string ToString()
 		{
