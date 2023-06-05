@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Crimes.cs" />
     <Compile Include="Score.cs" />
     <Compile Include="Direction.cs" />
     <Compile Include="Figure.cs" />

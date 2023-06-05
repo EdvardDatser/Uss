@@ -76,5 +76,29 @@ namespace Snake
 			else
 				return false;
 		}
-	}
+        public bool Eat2(Point gfood)
+        {
+            Point head = GetNextPoint();
+            if (head.IsHit(gfood))
+            {
+                gfood.sym = head.sym;
+                pList.Add(gfood);
+                return true;
+            }
+            else
+                return false;
+        }
+        public bool Eat3(Point bfood)
+        {
+            Point head = GetNextPoint();
+            if (head.IsHit(bfood))
+            {
+                bfood.sym = head.sym;
+                pList.Add(bfood);
+                return true;
+            }
+            else
+                return false;
+        }
+    }
 }
