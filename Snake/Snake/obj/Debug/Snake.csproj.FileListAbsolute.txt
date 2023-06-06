@@ -22,3 +22,11 @@ C:\Users\datse\Source\Repos\Snake\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBi
 C:\Users\datse\Source\Repos\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\datse\Source\Repos\Snake\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\datse\Source\Repos\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\datse\Source\Repos\edada\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\datse\Source\Repos\edada\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\datse\Source\Repos\edada\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\datse\Source\Repos\edada\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\datse\Source\Repos\edada\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\datse\Source\Repos\edada\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\datse\Source\Repos\edada\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\datse\Source\Repos\edada\Snake\Snake\obj\Debug\Snake.pdb
